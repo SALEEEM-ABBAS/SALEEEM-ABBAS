@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Saleem Abbas 👋
 
-<!--
-**SHIGRI-11/SHIGRI-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hardware & Embedded Systems Developer specializing in IoT prototyping, sensor integration, and industrial firmware.
 
-Here are some ideas to get you started:
+### 🛠️ Tech & Hardware Stack
+* **Microcontrollers:** ESP32, Arduino
+* **Languages:** C/C++, Python
+* **Protocols & Buses:** Modbus RTU (RS485), UART, I2C, SPI
+* **Hardware & Sensors:** Industrial Soil Probes, Load Cells (HX711), Motor Drivers (Cytron MDD10A), Environmental Sensors
+* **Tools & Design:** FreeCAD, Proteus, Linux / Ubuntu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Core Focus
+* Developing robust firmware for agricultural sensing and industrial automation.
+* High-accuracy sensor data acquisition, filtering, and RS485 communication pipelines.
+* End-to-end prototyping: circuit design, firmware programming, and 3D enclosure modeling.
+
+### 📫 Connect
+* **GitHub:** [SHIGRI-11](https://github.com/SHIGRI-11)
