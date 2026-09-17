@@ -28,5 +28,5 @@ Hardware, Firmware & PCB Design Engineer specializing in embedded systems, IoT p
 ### 📫 Connect With Me
 
 
-* **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com](https://www.linkedin.com/in/abbas-shigree/))
+* **LinkedIn:** ([https://www.linkedin.com](https://www.linkedin.com/in/abbas-shigree/))
 * **Email:** saleem.shigri.05@gmail.com
