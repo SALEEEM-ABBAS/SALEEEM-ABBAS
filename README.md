@@ -1,5 +1,7 @@
 <!-- ========================= -->
+
 <!--        HEADER             -->
+
 <!-- ========================= -->
 
 <div align="center">
@@ -10,7 +12,7 @@
 
 ### Embedded & Hardware Engineer | Industrial IoT | Robotics | PCB Design
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=750&lines=Embedded+Systems+Engineer;ESP32+%7C+STM32+%7C+Arduino;RS485+%7C+Modbus+RTU+%7C+UART;PCB+Design+%7C+Hardware+Prototyping;Industrial+IoT+%7C+Smart+Agriculture;ROS+2+%7C+Robotics+%7C+Automation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=750&lines=Embedded+Systems+Engineer;ESP32+%7C+STM32+%7C+Arduino;RS485+%7C+Modbus+RTU+%7C+UART;PCB+Design+%7C+Hardware+Prototyping;Industrial+IoT+%7C+Smart+Agriculture;ROS+2+%7C+Robotics+%7C+Automation"/>
 
 <br>
 
@@ -28,17 +30,13 @@
 
 # 🧑‍💻 About Me
 
-I'm an **Embedded & Hardware Engineer** focused on designing and developing
-complete electronic systems — from **circuit design and PCB development**
-to **firmware, communication protocols, sensor integration, testing,
-and real-world deployment**.
+I'm an **Embedded & Hardware Engineer** focused on designing and developing complete electronic systems — from **circuit design and PCB development** to **firmware, communication protocols, sensor integration, testing, and real-world deployment**.
 
 My work sits at the intersection of:
 
 > 🔧 Hardware + 💻 Firmware + 📡 Communication + 🤖 Automation
 
-I enjoy taking an idea from a **schematic or prototype** and turning it
-into a reliable working embedded system.
+I enjoy taking an idea from a **schematic or prototype** and turning it into a reliable working embedded system.
 
 ---
 
@@ -60,6 +58,7 @@ into a reliable working embedded system.
 
 </div>
 
+---
 
 # ⚡ What I Build
 
@@ -86,6 +85,7 @@ into a reliable working embedded system.
           │
           ▼
     🚀 REAL-WORLD SYSTEM
+```
 
 ---
 
@@ -347,5 +347,3 @@ My goal is to build systems that are **functional, testable, maintainable, and r
 ### ⚡ Build Hardware. Write Firmware. Solve Real Problems.
 
 </div>
-
-
