@@ -68,8 +68,20 @@ into a reliable working embedded system.
           ▼
     🚀 REAL-WORLD SYSTEM
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
+<div align="center">
 
-* **LinkedIn:** ([https://www.linkedin.com](https://www.linkedin.com/in/abbas-shigree/))
-* **Email:** saleem.shigri.05@gmail.com
+<a href="https://www.linkedin.com/in/abbas-shigree/">
+<img src="https://img.shields.io/badge/LinkedIn-Abbas%20Shigree-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:saleem.shigri.05@gmail.com">
+<img src="https://img.shields.io/badge/Email-saleem.shigri.05%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SALEEEM-ABBAS">
+<img src="https://img.shields.io/badge/GitHub-SALEEEM--ABBAS-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
