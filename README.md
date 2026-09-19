@@ -68,7 +68,8 @@ into a reliable working embedded system.
           ▼
     🚀 REAL-WORLD SYSTEM
 
-## 📫 Connect With Me
+
+**# 📫 Connect With Me**
 
 <div align="center">
 
