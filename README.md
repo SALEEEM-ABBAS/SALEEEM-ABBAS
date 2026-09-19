@@ -1,29 +1,72 @@
-# Hi there, I'm Engr. Saleem Abbas 👋
+<!-- ========================= -->
+<!--        HEADER             -->
+<!-- ========================= -->
 
-Hardware, Firmware & PCB Design Engineer specializing in embedded systems, IoT prototyping, single-board computers (SBCs), and circuit simulation.
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Engr.%20Saleem%20Abbas&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+# 👋 Hi, I'm Engr. Saleem Abbas
+
+### Embedded & Hardware Engineer | Industrial IoT | Robotics | PCB Design
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=750&lines=Embedded+Systems+Engineer;ESP32+%7C+STM32+%7C+Arduino;RS485+%7C+Modbus+RTU+%7C+UART;PCB+Design+%7C+Hardware+Prototyping;Industrial+IoT+%7C+Smart+Agriculture;ROS+2+%7C+Robotics+%7C+Automation" />
+
+<br>
+
+<a href="https://github.com/SALEEEM-ABBAS">
+<img src="https://img.shields.io/github/followers/SALEEEM-ABBAS?label=Followers&style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/SALEEEM-ABBAS?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 ---
 
-### 🛠️ Technical Stack & Tooling
+# 🧑‍💻 About Me
 
-* **Microcontrollers & SBCs:** ESP32, STM32, Arduino, Raspberry Pi, Banana Pi
-* **Languages & Environments:** C/C++, Python, MATLAB, Anaconda
-* **PCB Design & EDA:** KiCad, DipTrace, Proteus
-* **Circuit Simulation & Analysis:** LTspice, Proteus Virtual System Modelling
-* **Communication Protocols:** Modbus RTU (RS485), UART, SPI, I2C
-* **Hardware & Sensors:** Industrial Probes, Load Cells (HX711), Motor Controllers, Environmental Sensors
-* **OS & System Administration:** Linux / Ubuntu, Windows OS Deployment, Multi-Boot & Booting Solutions
+I'm an **Embedded & Hardware Engineer** focused on designing and developing
+complete electronic systems — from **circuit design and PCB development**
+to **firmware, communication protocols, sensor integration, testing,
+and real-world deployment**.
 
----
+My work sits at the intersection of:
 
-### 🔭 Core Focus
+> 🔧 Hardware + 💻 Firmware + 📡 Communication + 🤖 Automation
 
-* **Firmware Engineering:** Writing robust, low-latency C/C++ and MicroPython drivers for microcontrollers and ARM-based SBCs.
-* **Hardware & PCB Development:** End-to-end schematic capture, layout routing, design verification (ERC/DRC), and simulation using KiCad, DipTrace, and LTspice.
-* **Industrial IoT & Automation:** Data logging pipelines, RS485/Modbus networking, and multi-sensor calibration systems.
-* **System Prototyping:** Complete system bring-up from CAD enclosures to OS installation, boot management, and firmware deployment.
+I enjoy taking an idea from a **schematic or prototype** and turning it
+into a reliable working embedded system.
 
 ---
+
+# ⚡ What I Build
+
+```text
+        💡 IDEA
+          │
+          ▼
+    📐 SYSTEM DESIGN
+          │
+          ▼
+    🔌 CIRCUIT / PCB
+          │
+          ▼
+    🔧 PROTOTYPING
+          │
+          ▼
+    💻 FIRMWARE
+          │
+          ▼
+    📡 COMMUNICATION
+          │
+          ▼
+    🧪 TESTING & CALIBRATION
+          │
+          ▼
+    🚀 REAL-WORLD SYSTEM
 
 ### 📫 Connect With Me
 
